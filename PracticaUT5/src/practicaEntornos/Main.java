@@ -2,7 +2,7 @@ package practicaEntornos;
 /**
  * Clase que prueba los metodos de las clases.
  * @author Hugo Carnicero Navidad
- * @version 1.0
+ * @version 2.0
  * @see Estudiante
  * @see Profesor
  * @since 1.0
