@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"practicaEntornos","l":"Estudiante"},{"p":"practicaEntornos","l":"Main"},{"p":"practicaEntornos","l":"Profesor"}];updateSearchResults();
